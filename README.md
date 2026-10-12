@@ -18,7 +18,7 @@ Dark translucent surfaces, subtle reflections, smooth transitions, and a small f
 ## Getting started
 
 ```lua
-local LayerUI = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local LayerUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/rayware/LayerUI/refs/heads/main/ui"))()
 
 local Window = LayerUI:CreateWindow({
     Id = "MyScript",
