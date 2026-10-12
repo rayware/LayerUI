@@ -60,7 +60,7 @@ local env = type(getgenv) == "function" and getgenv() or _G
 
 env.LayerUIConfig = {Demo = false}
 
-local LayerUI = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local LayerUI = loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/rayware/LayerUI/refs/heads/main/ui"))()
 
 -- Create your window whenever you need it.
 local Window = LayerUI:CreateWindow({
