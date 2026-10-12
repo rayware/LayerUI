@@ -1,6 +1,6 @@
 # LayerUI
 
-A compact Roblox UI library by **rayware**, built from the original Auto Clean glass interface.
+A compact Roblox UI library by **rayware**.
 
 Dark translucent surfaces, subtle reflections, smooth transitions, and a small floating menu. One Lua file. A straightforward API. Your script supplies the behavior.
 
