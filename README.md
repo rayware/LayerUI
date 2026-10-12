@@ -17,8 +17,6 @@ Dark translucent surfaces, subtle reflections, smooth transitions, and a small f
 
 ## Getting started
 
-Upload `LayerUI.lua` to your repository, open the file, and copy its **Raw** URL. Replace `YOUR_RAW_URL` below with that URL.
-
 ```lua
 local LayerUI = loadstring(game:HttpGet("YOUR_RAW_URL"))()
 
