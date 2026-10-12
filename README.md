@@ -6,7 +6,6 @@ Dark translucent surfaces, subtle reflections, smooth transitions, and a small f
 
 ## Features
 
-- The original Auto Clean glass styling and six built-in themes.
 - A loading screen contained inside the window.
 - Draggable windows and a draggable compact mode with bounce animations.
 - Buttons, toggles, sliders, dropdowns, text inputs, labels, paragraphs, and sections.
@@ -258,7 +257,7 @@ This is API-level protection, not tamper protection: a person who edits the Lua 
 ```lua
 Window:Notify({
     Title = "Item collected",
-    Content = "Golden Halo",
+    Content = "idk,
     Duration = 2,
 })
 ```
